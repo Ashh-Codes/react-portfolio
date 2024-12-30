@@ -49,7 +49,7 @@ const Projects = () => {
                                    </ul>
                                    <CardText className='d-flex justify-content-between'>
                                          <a href="https://react-googleauth-recipe.netlify.app/" target='_blank'> <button className='btn btn-secondary'>Preview</button></a>
-                                         <a href="https://github.com/Ashh-Codes/RecipeReduxApp" target='_blank'><button className='btn btn-secondary'>Source Code<i className="fa-brands fa-github ms-2"></i></button></a> 
+                                         <a href="https://github.com/Ashh-Codes/react-portfolio" target='_blank'><button className='btn btn-secondary'>Source Code<i className="fa-brands fa-github ms-2"></i></button></a> 
                                       </CardText>
                                     
      
