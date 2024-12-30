@@ -44,7 +44,7 @@ const Projects = () => {
                                    <ul>
                                     <li>Fully responsive front end web page setup.</li>
                                     <li>Created all the components from scratch using react and java script.</li>
-                                    <li>Hand coded custom amination using css  making the website interactive.</li>
+                                    <li>Hand coded custom amination using css  making the website interactive and user-friendly</li>
                                    
                                    </ul>
                                    <CardText className='d-flex justify-content-between'>
